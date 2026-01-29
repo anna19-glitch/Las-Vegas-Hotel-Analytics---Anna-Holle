@@ -1,0 +1,465 @@
+User country,Nr. reviews,Nr. hotel reviews,Helpful votes,Score,Period of stay,Traveler type,Pool,Gym,Tennis court,Spa,Casino,Free internet,Hotel name,Hotel stars,Nr. rooms,User continent,Member years,Review month,Review weekday
+USA,11.0,4.0,13.0,5.0,Dec-Feb,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,9.0,January,Thursday
+USA,119.0,21.0,75.0,3.0,Dec-Feb,Business,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,3.0,January,Friday
+USA,36.0,9.0,25.0,5.0,Mar-May,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,2.0,February,Saturday
+UK,14.0,7.0,14.0,4.0,Mar-May,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Europe,6.0,February,Friday
+Canada,5.0,5.0,2.0,4.0,Mar-May,Solo,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,7.0,March,Tuesday
+Canada,31.0,8.0,27.0,3.0,Mar-May,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,2.0,March,Tuesday
+UK,45.0,12.0,46.0,4.0,Mar-May,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Europe,4.0,April,Friday
+USA,2.0,1.0,4.0,4.0,Mar-May,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,0.0,April,Tuesday
+India,24.0,3.0,8.0,4.0,Mar-May,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Asia,3.0,May,Saturday
+Canada,12.0,7.0,11.0,3.0,Mar-May,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,5.0,May,Tuesday
+USA,102.0,24.0,58.0,2.0,Jun-Aug,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,9.0,June,Friday
+Australia,20.0,9.0,24.0,3.0,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Oceania,4.0,June,Saturday
+USA,22.0,5.0,13.0,3.0,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,1.0,July,Thursday
+UK,3.0,3.0,0.0,3.0,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Europe,1.0,August,Sunday
+New Zeland,146.0,17.0,33.0,4.0,Jun-Aug,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Oceania,2.0,August,Saturday
+Canada,8.0,8.0,9.0,1.0,Sep-Nov,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,4.0,September,Wednesday
+Canada,41.0,9.0,19.0,3.0,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,2.0,October,Tuesday
+USA,8.0,7.0,26.0,2.0,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,10.0,October,Monday
+UK,10.0,5.0,2.0,4.0,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Europe,7.0,November,Saturday
+New Zeland,4.0,3.0,3.0,1.0,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Oceania,3.0,November,Monday
+UK,18.0,7.0,19.0,4.0,Dec-Feb,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,Europe,0.0,December,Saturday
+USA,4.0,4.0,3.0,2.0,Dec-Feb,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3.0,3773.0,North America,5.0,December,Sunday
+Ireland,29.0,11.0,15.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,3.0,January,Monday
+USA,114.0,42.0,52.0,4.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,11.0,January,Saturday
+Canada,30.0,12.0,17.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,8.0,February,Friday
+UK,87.0,18.0,36.0,3.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,3.0,February,Thursday
+USA,26.0,10.0,28.0,5.0,Mar-May,Solo,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,1.0,March,Wednesday
+Ireland,8.0,7.0,9.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,8.0,March,Wednesday
+Canada,11.0,8.0,13.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,7.0,April,Friday
+Canada,56.0,8.0,7.0,3.0,Mar-May,Solo,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,1.0,May,Tuesday
+Egypt,13.0,12.0,8.0,3.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Africa,4.0,May,Wednesday
+Australia,58.0,9.0,15.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Oceania,0.0,June,Saturday
+Finland,20.0,7.0,4.0,3.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,6.0,June,Saturday
+USA,70.0,27.0,24.0,4.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,6.0,July,Friday
+Kenya,6.0,3.0,7.0,4.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Africa,1.0,July,Thursday
+USA,24.0,6.0,9.0,2.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,2.0,August,Wednesday
+Jordan,29.0,8.0,21.0,3.0,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,2.0,September,Wednesday
+Canada,20.0,5.0,59.0,3.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,8.0,September,Saturday
+Netherlands,3.0,3.0,3.0,3.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,4.0,October,Saturday
+Ireland,47.0,6.0,27.0,4.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,5.0,October,Monday
+USA,35.0,8.0,19.0,4.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,North America,6.0,November,Sunday
+UK,6.0,0.0,4.0,4.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,1.0,November,Sunday
+UK,74.0,47.0,54.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Europe,7.0,December,Wednesday
+Syria,34.0,8.0,30.0,3.0,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3.0,3981.0,Asia,4.0,December,Tuesday
+UK,576.0,43.0,340.0,3.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,3.0,January,Monday
+USA,20.0,8.0,11.0,4.0,Dec-Feb,Solo,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,North America,5.0,January,Saturday
+USA,418.0,32.0,132.0,2.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,North America,3.0,February,Tuesday
+USA,73.0,13.0,22.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,North America,2.0,February,Tuesday
+Canada,30.0,10.0,32.0,3.0,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,North America,2.0,March,Wednesday
+USA,63.0,15.0,17.0,4.0,Mar-May,Business,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,North America,2.0,March,Tuesday
+Scotland,24.0,10.0,13.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,5.0,April,Wednesday
+Australia,20.0,7.0,11.0,4.0,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Oceania,2.0,May,Friday
+Ireland,7.0,5.0,7.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,9.0,June,Tuesday
+Canada,13.0,9.0,15.0,4.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,North America,1.0,June,Monday
+UK,10.0,5.0,4.0,4.0,Jun-Aug,Families,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,1.0,July,Friday
+New Zeland,9.0,6.0,19.0,3.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Oceania,7.0,July,Wednesday
+Switzerland,36.0,19.0,36.0,2.0,Jun-Aug,Solo,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,5.0,August,Thursday
+UK,33.0,12.0,19.0,3.0,Jun-Aug,Families,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,5.0,August,Saturday
+United Arab Emirates,156.0,126.0,142.0,3.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Asia,8.0,September,Friday
+Ireland,19.0,17.0,16.0,4.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,5.0,September,Wednesday
+Hungary,8.0,5.0,8.0,4.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,8.0,November,Friday
+China,1.0,0.0,2.0,1.0,Sep-Nov,Business,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Asia,0.0,November,Wednesday
+Greece,21.0,18.0,6.0,2.0,Dec-Feb,Business,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,Europe,0.0,December,Sunday
+Mexico,56.0,14.0,36.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4.0,3003.0,North America,3.0,December,Monday
+Croatia,29.0,11.0,14.0,3.0,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Europe,6.0,January,Sunday
+Australia,11.0,5.0,8.0,4.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Oceania,1.0,January,Thursday
+Canada,19.0,12.0,167.0,4.0,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,9.0,February,Monday
+USA,43.0,8.0,20.0,4.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,1.0,March,Friday
+Canada,12.0,8.0,3.0,4.0,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,2.0,March,Saturday
+USA,15.0,14.0,7.0,4.0,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,9.0,April,Tuesday
+Australia,16.0,13.0,16.0,3.0,Mar-May,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Oceania,6.0,April,Wednesday
+Germany,10.0,0.0,5.0,4.0,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Europe,3.0,May,Sunday
+USA,27.0,17.0,16.0,3.0,Jun-Aug,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,6.0,June,Thursday
+Canada,6.0,5.0,5.0,4.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,2.0,June,Tuesday
+Malaysia,43.0,14.0,27.0,4.0,Jun-Aug,Solo,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Asia,5.0,July,Thursday
+Mexico,97.0,31.0,37.0,4.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,South America,8.0,August,Saturday
+UK,7.0,3.0,4.0,4.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Europe,5.0,August,Friday
+UK,11.0,9.0,6.0,3.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Europe,0.0,September,Friday
+USA,78.0,11.0,30.0,4.0,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,2.0,September,Tuesday
+Australia,12.0,7.0,4.0,5.0,Sep-Nov,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Oceania,5.0,October,Monday
+USA,27.0,11.0,5.0,3.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,2.0,October,Monday
+Thailand,4.0,3.0,1.0,5.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Asia,7.0,November,Friday
+Australia,27.0,9.0,8.0,4.0,Sep-Nov,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,Oceania,2.0,November,Friday
+Canada,12.0,3.0,7.0,4.0,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,4.0,December,Saturday
+Canada,21.0,16.0,48.0,5.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4.0,2884.0,North America,12.0,December,Thursday
+UK,34.0,17.0,30.0,4.0,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,8.0,January,Sunday
+Phillippines,79.0,39.0,51.0,3.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Asia,5.0,February,Wednesday
+Israel,18.0,10.0,16.0,3.0,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Asia,2.0,February,Thursday
+UK,14.0,4.0,9.0,4.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,1.0,March,Friday
+Ireland,19.0,9.0,28.0,5.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,3.0,April,Friday
+India,88.0,15.0,103.0,4.0,Mar-May,Business,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Asia,3.0,April,Monday
+New Zeland,8.0,4.0,0.0,4.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Oceania,1.0,May,Tuesday
+Belgium,39.0,15.0,31.0,3.0,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,1.0,May,Sunday
+UK,130.0,41.0,61.0,4.0,Jun-Aug,Business,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,3.0,June,Tuesday
+Australia,79.0,78.0,105.0,4.0,Jun-Aug,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Oceania,7.0,June,Wednesday
+UK,18.0,6.0,17.0,4.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,1.0,July,Monday
+New Zeland,8.0,7.0,3.0,5.0,Jun-Aug,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Oceania,1.0,August,Saturday
+Australia,15.0,4.0,6.0,5.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Oceania,0.0,August,Friday
+Canada,27.0,0.0,9.0,1.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,North America,0.0,September,Tuesday
+Australia,5.0,3.0,2.0,5.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Oceania,5.0,September,Wednesday
+UK,22.0,6.0,6.0,5.0,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,1.0,October,Tuesday
+USA,5.0,3.0,11.0,2.0,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,North America,1.0,October,Thursday
+India,31.0,8.0,11.0,4.0,Sep-Nov,Solo,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Asia,1.0,November,Sunday
+UK,10.0,6.0,11.0,5.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,4.0,December,Saturday
+UK,12.0,3.0,3.0,5.0,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4.0,1467.0,Europe,4.0,December,Thursday
+USA,50.0,14.0,24.0,5.0,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,7.0,January,Wednesday
+USA,161.0,33.0,85.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,3.0,January,Friday
+Puerto Rico,153.0,38.0,81.0,5.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,10.0,February,Tuesday
+Canada,14.0,3.0,12.0,5.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,2.0,February,Thursday
+USA,31.0,12.0,10.0,5.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,4.0,March,Friday
+USA,15.0,10.0,29.0,3.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,9.0,March,Friday
+USA,46.0,4.0,21.0,4.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,2.0,April,Saturday
+UK,15.0,6.0,39.0,1.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,Europe,4.0,May,Sunday
+UK,63.0,27.0,35.0,4.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,Europe,5.0,May,Wednesday
+USA,17.0,15.0,13.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,2.0,June,Sunday
+USA,25.0,22.0,36.0,1.0,Jun-Aug,Solo,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,9.0,June,Tuesday
+USA,14.0,8.0,4.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,1.0,July,Monday
+UK,59.0,56.0,37.0,3.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,Europe,6.0,July,Tuesday
+UK,11.0,10.0,17.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,Europe,3.0,August,Friday
+Canada,54.0,18.0,31.0,4.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,5.0,August,Wednesday
+USA,4.0,3.0,4.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,3.0,September,Monday
+USA,10.0,7.0,7.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,3.0,September,Tuesday
+USA,14.0,6.0,7.0,5.0,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,11.0,October,Sunday
+USA,39.0,12.0,16.0,5.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,2.0,October,Thursday
+Australia,35.0,24.0,43.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,Oceania,4.0,November,Sunday
+Australia,6.0,6.0,9.0,3.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,Oceania,0.0,November,Sunday
+USA,23.0,7.0,2.0,4.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,3.0,December,Friday
+USA,48.0,21.0,67.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5.0,3348.0,North America,13.0,December,Sunday
+Australia,16.0,9.0,14.0,4.0,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Oceania,3.0,January,Thursday
+Australia,12.0,6.0,3.0,5.0,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Oceania,1.0,January,Thursday
+Switzerland,36.0,9.0,15.0,4.0,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,2.0,February,Saturday
+UK,127.0,40.0,80.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,8.0,February,Wednesday
+USA,12.0,5.0,1.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,1.0,March,Monday
+USA,17.0,17.0,74.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,10.0,March,Saturday
+Ireland,23.0,7.0,21.0,4.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,7.0,April,Thursday
+Germany,113.0,15.0,55.0,5.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,8.0,May,Thursday
+USA,30.0,8.0,10.0,2.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,1.0,May,Wednesday
+Germany,24.0,24.0,24.0,2.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,7.0,June,Wednesday
+Ireland,15.0,5.0,18.0,5.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,3.0,June,Wednesday
+USA,6.0,4.0,14.0,1.0,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,1.0,July,Wednesday
+Australia,3.0,3.0,0.0,4.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Oceania,7.0,July,Tuesday
+Canada,41.0,10.0,56.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,4.0,August,Saturday
+USA,19.0,8.0,56.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,10.0,August,Sunday
+UK,18.0,9.0,10.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,1.0,September,Wednesday
+Norway,6.0,6.0,7.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,7.0,September,Tuesday
+USA,103.0,5.0,98.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,7.0,October,Monday
+UK,18.0,4.0,16.0,5.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Europe,0.0,October,Friday
+Egypt,9.0,7.0,7.0,5.0,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,Africa,5.0,November,Wednesday
+USA,50.0,19.0,45.0,5.0,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,0.0,November,Friday
+Canada,4.0,3.0,8.0,2.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5.0,2959.0,North America,8.0,December,Tuesday
+Mexico,28.0,23.0,31.0,3.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,4.0,January,Friday
+USA,32.0,6.0,11.0,5.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,10.0,January,Friday
+Canada,4.0,0.0,4.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,9.0,February,Friday
+USA,37.0,8.0,9.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,3.0,February,Tuesday
+Canada,10.0,3.0,7.0,5.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,6.0,March,Wednesday
+Canada,36.0,30.0,80.0,5.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,8.0,March,Friday
+USA,31.0,10.0,14.0,4.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,5.0,April,Sunday
+Canada,66.0,33.0,60.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,10.0,April,Saturday
+France,17.0,4.0,8.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,Europe,0.0,May,Saturday
+UK,57.0,20.0,71.0,5.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,Europe,0.0,May,Friday
+USA,42.0,8.0,22.0,4.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,6.0,June,Monday
+USA,28.0,20.0,14.0,3.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,8.0,June,Friday
+Spain,19.0,8.0,10.0,4.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,Europe,3.0,July,Wednesday
+USA,20.0,11.0,21.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,9.0,July,Friday
+UK,75.0,19.0,93.0,4.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,Europe,8.0,August,Sunday
+UK,52.0,48.0,78.0,3.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,Europe,8.0,September,Saturday
+USA,93.0,4.0,8.0,5.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,2.0,September,Saturday
+Canada,9.0,3.0,15.0,5.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,1.0,October,Wednesday
+Australia,5.0,3.0,9.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,Oceania,2.0,October,Thursday
+Singapore,37.0,7.0,10.0,5.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,Asia,0.0,November,Sunday
+Brazil,31.0,25.0,35.0,3.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,South America,7.0,November,Sunday
+USA,6.0,4.0,4.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,7.0,December,Thursday
+USA,252.0,55.0,113.0,4.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5.0,3025.0,North America,8.0,December,Monday
+USA,164.0,48.0,82.0,5.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,4.0,January,Saturday
+USA,5.0,3.0,9.0,5.0,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,4.0,January,Tuesday
+Canada,7.0,5.0,20.0,4.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,3.0,February,Saturday
+USA,18.0,11.0,15.0,5.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,7.0,February,Tuesday
+USA,20.0,13.0,16.0,5.0,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,6.0,March,Friday
+USA,21.0,5.0,12.0,4.0,Mar-May,Business,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,8.0,March,Monday
+USA,125.0,35.0,48.0,5.0,Mar-May,Business,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,4.0,April,Sunday
+USA,11.0,7.0,10.0,4.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,1.0,April,Monday
+Singapore,16.0,10.0,16.0,3.0,Mar-May,Solo,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,Asia,7.0,May,Monday
+UK,19.0,5.0,5.0,5.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,Europe,3.0,May,Monday
+USA,73.0,27.0,365.0,5.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,6.0,June,Wednesday
+USA,5.0,4.0,4.0,5.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,11.0,June,Wednesday
+USA,30.0,10.0,17.0,5.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,3.0,July,Monday
+Canada,7.0,4.0,10.0,5.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,3.0,July,Sunday
+Canada,67.0,46.0,99.0,5.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,6.0,August,Sunday
+Finland,18.0,13.0,25.0,5.0,Jun-Aug,Solo,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,Europe,9.0,August,Saturday
+Canada,12.0,7.0,11.0,2.0,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,4.0,September,Monday
+Canada,40.0,12.0,26.0,5.0,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,7.0,September,Saturday
+USA,142.0,17.0,31.0,4.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,3.0,October,Monday
+UK,8.0,4.0,16.0,5.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,Europe,7.0,October,Saturday
+Costa Rica,15.0,9.0,3.0,5.0,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,2.0,November,Monday
+UK,2.0,18.0,14.0,5.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,Europe,8.0,November,Wednesday
+UK,10.0,6.0,10.0,5.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,Europe,5.0,December,Tuesday
+USA,16.0,13.0,55.0,5.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5.0,2700.0,North America,9.0,December,Tuesday
+UK,21.0,7.0,13.0,5.0,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Europe,10.0,January,Tuesday
+India,69.0,58.0,41.0,5.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Asia,5.0,January,Saturday
+USA,33.0,13.0,8.0,5.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,5.0,February,Wednesday
+USA,1.0,0.0,2.0,5.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,0.0,February,Tuesday
+USA,49.0,8.0,23.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,5.0,March,Monday
+USA,775.0,52.0,255.0,3.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,2.0,March,Wednesday
+United Arab Emirates,16.0,7.0,6.0,4.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Asia,7.0,April,Monday
+USA,1.0,0.0,1.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,0.0,April,Wednesday
+Singapore,19.0,11.0,17.0,4.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Asia,7.0,May,Friday
+Brazil,7.0,4.0,8.0,5.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,South America,7.0,May,Sunday
+USA,38.0,18.0,16.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,8.0,June,Sunday
+USA,48.0,14.0,30.0,5.0,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,9.0,June,Wednesday
+Canada,136.0,20.0,55.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,3.0,July,Sunday
+USA,26.0,8.0,1.0,4.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,6.0,July,Monday
+Iran,3.0,3.0,2.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Asia,4.0,August,Sunday
+USA,78.0,17.0,24.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,5.0,August,Monday
+UK,24.0,18.0,12.0,5.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Europe,0.0,September,Thursday
+Egypt,2.0,0.0,15.0,1.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Africa,1.0,September,Monday
+Ireland,4.0,3.0,3.0,5.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Europe,11.0,October,Thursday
+Australia,11.0,7.0,17.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Oceania,2.0,October,Saturday
+Germany,1.0,0.0,1.0,2.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Europe,0.0,November,Wednesday
+Australia,35.0,16.0,17.0,4.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,Oceania,2.0,November,Tuesday
+USA,110.0,19.0,76.0,4.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,2.0,December,Tuesday
+USA,53.0,25.0,24.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5.0,1282.0,North America,3.0,December,Sunday
+Saudi Arabia,320.0,45.0,102.0,3.0,Dec-Feb,Business,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,Asia,6.0,January,Tuesday
+USA,2.0,0.0,2.0,4.0,Dec-Feb,Business,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,1.0,January,Saturday
+USA,26.0,6.0,12.0,5.0,Dec-Feb,Families,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,1.0,February,Sunday
+USA,4.0,4.0,0.0,5.0,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,2.0,February,Monday
+USA,9.0,9.0,6.0,2.0,Mar-May,Solo,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,1.0,March,Wednesday
+USA,17.0,14.0,70.0,5.0,Mar-May,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,10.0,March,Sunday
+Canada,3.0,0.0,1.0,5.0,Mar-May,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,1.0,April,Tuesday
+Canada,14.0,0.0,4.0,2.0,Mar-May,Families,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,4.0,April,Tuesday
+USA,235.0,111.0,267.0,5.0,Mar-May,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,9.0,May,Friday
+USA,59.0,9.0,21.0,5.0,Mar-May,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,3.0,May,Monday
+USA,2.0,0.0,2.0,5.0,Jun-Aug,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,0.0,June,Wednesday
+USA,2.0,0.0,1.0,5.0,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,0.0,June,Wednesday
+USA,21.0,18.0,53.0,5.0,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,11.0,July,Wednesday
+USA,4.0,0.0,16.0,1.0,Jun-Aug,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,0.0,July,Thursday
+Netherlands,184.0,52.0,70.0,5.0,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,Europe,3.0,August,Wednesday
+UK,262.0,75.0,150.0,4.0,Jun-Aug,Families,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,Europe,2.0,August,Monday
+USA,69.0,11.0,17.0,5.0,Sep-Nov,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,0.0,September,Sunday
+Australia,92.0,12.0,27.0,4.0,Sep-Nov,Business,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,Oceania,2.0,September,Saturday
+USA,131.0,61.0,116.0,3.0,Sep-Nov,Families,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,8.0,October,Thursday
+Norway,25.0,10.0,16.0,5.0,Sep-Nov,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,Europe,8.0,October,Tuesday
+Canada,49.0,22.0,53.0,3.0,Sep-Nov,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,5.0,November,Sunday
+USA,148.0,33.0,55.0,4.0,Sep-Nov,Business,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,3.0,November,Wednesday
+Canada,26.0,7.0,22.0,4.0,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,4.0,December,Wednesday
+USA,13.0,4.0,1.0,4.0,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4.5,188.0,North America,2.0,December,Wednesday
+Thailand,3.0,3.0,20.0,1.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,Asia,5.0,January,Tuesday
+USA,46.0,12.0,87.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,3.0,January,Tuesday
+UK,127.0,40.0,81.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,Europe,8.0,February,Thursday
+USA,15.0,5.0,12.0,5.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,4.0,February,Sunday
+USA,16.0,14.0,23.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,7.0,March,Friday
+USA,113.0,38.0,27.0,4.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,1.0,March,Tuesday
+Honduras,73.0,32.0,99.0,4.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,South America,10.0,April,Thursday
+USA,35.0,12.0,3.0,5.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,2.0,May,Friday
+UK,139.0,20.0,86.0,5.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,Europe,5.0,May,Monday
+UK,28.0,12.0,30.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,Europe,2.0,June,Saturday
+USA,34.0,8.0,26.0,4.0,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,4.0,June,Tuesday
+USA,4.0,3.0,5.0,5.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,3.0,July,Thursday
+USA,32.0,11.0,14.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,3.0,July,Sunday
+UK,9.0,3.0,4.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,Europe,1.0,August,Thursday
+USA,333.0,58.0,200.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,4.0,August,Sunday
+USA,29.0,11.0,15.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,6.0,September,Monday
+UK,85.0,43.0,68.0,5.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,Europe,5.0,September,Wednesday
+USA,12.0,5.0,1.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,5.0,October,Friday
+UK,34.0,10.0,7.0,4.0,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,Europe,4.0,October,Thursday
+India,13.0,7.0,8.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,Asia,5.0,November,Sunday
+USA,169.0,25.0,41.0,5.0,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,8.0,December,Tuesday
+USA,11.0,10.0,6.0,5.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5.0,2034.0,North America,7.0,December,Tuesday
+USA,50.0,39.0,48.0,2.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,10.0,January,Thursday
+Mexico,10.0,3.0,1.0,5.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,4.0,February,Tuesday
+Canada,7.0,4.0,4.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,1.0,February,Friday
+UK,60.0,7.0,42.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,Europe,8.0,March,Tuesday
+Netherlands,92.0,49.0,18.0,4.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,Europe,5.0,March,Thursday
+Australia,106.0,37.0,58.0,4.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,Oceania,3.0,April,Wednesday
+Brazil,37.0,31.0,38.0,5.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,South America,9.0,May,Friday
+USA,70.0,25.0,19.0,1.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,3.0,May,Friday
+USA,9.0,3.0,4.0,5.0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,1.0,June,Monday
+Finland,39.0,18.0,9.0,4.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,Europe,4.0,July,Thursday
+UK,10.0,0.0,9.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,Europe,1.0,July,Wednesday
+USA,78.0,17.0,24.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,5.0,August,Monday
+UK,48.0,21.0,19.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,Europe,4.0,August,Friday
+Canada,112.0,34.0,41.0,5.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,7.0,September,Sunday
+USA,28.0,17.0,14.0,5.0,Sep-Nov,Solo,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,2.0,September,Wednesday
+UK,11.0,3.0,16.0,2.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,Europe,2.0,October,Wednesday
+USA,9.0,5.0,11.0,4.0,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,9.0,October,Wednesday
+USA,4.0,4.0,1.0,3.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,0.0,November,Wednesday
+Mexico,22.0,15.0,25.0,4.0,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,North America,6.0,November,Monday
+Australia,20.0,16.0,9.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3.5,1228.0,Oceania,7.0,December,Tuesday
+Canada,160.0,34.0,88.0,4.0,Dec-Feb,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,6.0,January,Saturday
+USA,372.0,78.0,169.0,4.0,Dec-Feb,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,4.0,January,Sunday
+USA,84.0,18.0,36.0,5.0,Dec-Feb,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,4.0,February,Wednesday
+USA,21.0,13.0,20.0,5.0,Dec-Feb,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,5.0,February,Thursday
+Germany,118.0,107.0,131.0,5.0,Mar-May,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,Europe,10.0,March,Monday
+Canada,6.0,0.0,8.0,5.0,Mar-May,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,10.0,April,Wednesday
+USA,60.0,4.0,31.0,4.0,Mar-May,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,2.0,April,Tuesday
+Australia,275.0,79.0,339.0,4.0,Mar-May,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,Oceania,7.0,May,Sunday
+Canada,46.0,39.0,42.0,4.0,Mar-May,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,6.0,May,Wednesday
+USA,6.0,5.0,6.0,5.0,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,4.0,June,Tuesday
+USA,75.0,37.0,48.0,5.0,Jun-Aug,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,6.0,July,Saturday
+Taiwan,20.0,12.0,7.0,5.0,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,Asia,1.0,August,Wednesday
+Israel,62.0,40.0,25.0,5.0,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,Asia,5.0,August,Sunday
+USA,88.0,19.0,58.0,5.0,Sep-Nov,Friends,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,1.0,September,Wednesday
+USA,6.0,3.0,5.0,5.0,Sep-Nov,Friends,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,0.0,September,Tuesday
+Thailand,18.0,9.0,8.0,3.0,Sep-Nov,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,Asia,7.0,October,Monday
+Mexico,159.0,43.0,78.0,5.0,Sep-Nov,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,4.0,October,Wednesday
+Kuwait,47.0,23.0,20.0,4.0,Sep-Nov,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,Asia,1.0,November,Thursday
+Norway,86.0,12.0,46.0,4.0,Sep-Nov,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,Europe,5.0,November,Sunday
+USA,42.0,9.0,13.0,5.0,Dec-Feb,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,North America,1.0,December,Tuesday
+Germany,64.0,33.0,23.0,4.0,Dec-Feb,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3.5,732.0,Europe,7.0,December,Thursday
+USA,167.0,71.0,119.0,5.0,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,8.0,January,Saturday
+USA,25.0,5.0,12.0,5.0,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,8.0,January,Thursday
+UK,12.0,12.0,6.0,3.0,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,Europe,4.0,February,Friday
+USA,608.0,117.0,319.0,5.0,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,5.0,February,Saturday
+USA,5.0,4.0,3.0,5.0,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,8.0,March,Sunday
+USA,26.0,17.0,34.0,5.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,7.0,March,Thursday
+Brazil,11.0,5.0,9.0,5.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,South America,7.0,April,Monday
+USA,39.0,10.0,13.0,4.0,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,3.0,April,Wednesday
+India,1.0,0.0,3.0,2.0,Mar-May,Families,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,Asia,0.0,May,Thursday
+USA,108.0,20.0,22.0,3.0,Mar-May,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,5.0,May,Thursday
+Malaysia,119.0,20.0,46.0,5.0,Jun-Aug,Friends,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,Asia,1.0,June,Sunday
+USA,27.0,15.0,17.0,3.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,6.0,June,Tuesday
+Germany,55.0,55.0,134.0,5.0,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,Europe,5.0,July,Wednesday
+Canada,7.0,3.0,7.0,4.0,Jun-Aug,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,3.0,July,Friday
+Canada,3.0,3.0,2.0,3.0,Jun-Aug,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,0.0,August,Wednesday
+Australia,27.0,15.0,16.0,5.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,Oceania,5.0,September,Sunday
+USA,13.0,4.0,6.0,5.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,0.0,September,Wednesday
+UK,19.0,11.0,14.0,3.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,Europe,5.0,October,Sunday
+Canada,38.0,12.0,17.0,5.0,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,7.0,October,Friday
+USA,167.0,71.0,119.0,4.0,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,8.0,November,Sunday
+USA,28.0,6.0,9.0,3.0,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,3.0,November,Tuesday
+Canada,9.0,8.0,5.0,5.0,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,4.0,December,Sunday
+USA,13.0,4.0,4.0,5.0,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3.0,716.0,North America,5.0,December,Tuesday
+USA,65.0,24.0,72.0,3.0,Dec-Feb,Business,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,6.0,January,Monday
+USA,8.0,3.0,3.0,5.0,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,3.0,January,Thursday
+UK,61.0,13.0,26.0,2.0,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,Europe,4.0,February,Sunday
+USA,3.0,3.0,8.0,2.0,Dec-Feb,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,1.0,February,Saturday
+USA,66.0,13.0,21.0,5.0,Mar-May,Friends,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,9.0,March,Friday
+USA,9.0,7.0,4.0,5.0,Mar-May,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,2.0,March,Tuesday
+USA,82.0,14.0,61.0,3.0,Mar-May,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,1.0,April,Wednesday
+Canada,113.0,48.0,33.0,3.0,Mar-May,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,4.0,April,Sunday
+USA,11.0,8.0,12.0,3.0,Mar-May,Friends,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,6.0,May,Sunday
+Canada,2.0,1.0,1.0,3.0,Mar-May,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,3.0,May,Tuesday
+USA,31.0,11.0,24.0,5.0,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,2.0,June,Wednesday
+Australia,32.0,12.0,22.0,4.0,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,Oceania,5.0,June,Wednesday
+Canada,45.0,6.0,22.0,5.0,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,3.0,July,Thursday
+USA,17.0,4.0,4.0,4.0,Jun-Aug,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,0.0,August,Sunday
+USA,23.0,23.0,11.0,5.0,Jun-Aug,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,1.0,August,Sunday
+Canada,56.0,18.0,24.0,5.0,Sep-Nov,Friends,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,4.0,September,Saturday
+Australia,26.0,7.0,9.0,4.0,Sep-Nov,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,Oceania,0.0,October,Friday
+India,116.0,44.0,53.0,4.0,Sep-Nov,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,Asia,5.0,October,Saturday
+Czech Republic,14.0,5.0,15.0,4.0,Sep-Nov,Business,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,Europe,5.0,November,Thursday
+USA,13.0,7.0,1.0,5.0,Sep-Nov,Business,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,4.0,November,Sunday
+USA,20.0,9.0,25.0,4.0,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,8.0,December,Tuesday
+Mexico,3.0,3.0,3.0,5.0,Dec-Feb,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3.0,315.0,North America,2.0,December,Wednesday
+USA,17.0,3.0,12.0,4.0,Dec-Feb,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,2.0,January,Monday
+Australia,21.0,11.0,13.0,5.0,Dec-Feb,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,Oceania,4.0,January,Sunday
+USA,60.0,11.0,33.0,5.0,Dec-Feb,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,3.0,February,Thursday
+Canada,12.0,4.0,15.0,5.0,Dec-Feb,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,11.0,February,Monday
+USA,27.0,12.0,51.0,5.0,Mar-May,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,4.0,March,Tuesday
+USA,34.0,12.0,35.0,4.0,Mar-May,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,3.0,March,Tuesday
+Canada,69.0,22.0,38.0,5.0,Mar-May,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,6.0,April,Thursday
+USA,16.0,4.0,7.0,5.0,Mar-May,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,4.0,April,Saturday
+Australia,26.0,5.0,5.0,4.0,Mar-May,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,Oceania,1.0,May,Thursday
+USA,54.0,10.0,15.0,4.0,Mar-May,Business,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,5.0,May,Tuesday
+UK,35.0,17.0,27.0,5.0,Jun-Aug,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,Europe,6.0,June,Tuesday
+India,23.0,12.0,7.0,5.0,Jun-Aug,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,Asia,7.0,June,Saturday
+UK,6.0,3.0,14.0,5.0,Jun-Aug,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,Europe,3.0,July,Sunday
+USA,27.0,8.0,16.0,4.0,Jun-Aug,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,4.0,July,Thursday
+Canada,12.0,4.0,6.0,5.0,Jun-Aug,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,2.0,August,Monday
+USA,14.0,3.0,14.0,5.0,Sep-Nov,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,6.0,September,Tuesday
+USA,415.0,162.0,265.0,4.0,Sep-Nov,Business,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,8.0,September,Sunday
+Ireland,76.0,27.0,32.0,3.0,Sep-Nov,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,Europe,6.0,October,Thursday
+UK,24.0,12.0,30.0,4.0,Sep-Nov,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,Europe,4.0,October,Monday
+Japan,23.0,9.0,23.0,3.0,Sep-Nov,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,Asia,4.0,November,Monday
+USA,182.0,24.0,47.0,4.0,Sep-Nov,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,2.0,November,Sunday
+USA,289.0,28.0,133.0,4.0,Dec-Feb,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,5.0,December,Tuesday
+Canada,101.0,35.0,46.0,5.0,Dec-Feb,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3.5,787.0,North America,5.0,December,Saturday
+Ireland,31.0,11.0,20.0,4.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Europe,2.0,January,Friday
+USA,20.0,6.0,9.0,5.0,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,0.0,January,Wednesday
+USA,60.0,16.0,15.0,4.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,5.0,February,Saturday
+Mexico,1.0,0.0,2.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,0.0,February,Sunday
+USA,9.0,3.0,13.0,3.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,2.0,March,Thursday
+USA,19.0,7.0,5.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,5.0,March,Wednesday
+Israel,116.0,78.0,206.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Asia,9.0,April,Sunday
+Australia,22.0,13.0,26.0,4.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Oceania,2.0,April,Friday
+Australia,83.0,10.0,26.0,4.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Oceania,1.0,May,Tuesday
+UK,20.0,3.0,9.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Europe,0.0,May,Monday
+USA,7.0,5.0,6.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,1.0,June,Monday
+USA,95.0,34.0,46.0,5.0,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,6.0,June,Sunday
+Australia,15.0,6.0,19.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Oceania,4.0,July,Wednesday
+UK,13.0,7.0,12.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Europe,5.0,July,Sunday
+Canada,19.0,8.0,24.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,10.0,August,Wednesday
+UK,21.0,6.0,15.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Europe,3.0,August,Saturday
+UK,56.0,11.0,14.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Europe,5.0,September,Friday
+UK,29.0,7.0,15.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Europe,7.0,September,Thursday
+Brazil,20.0,0.0,8.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,South America,2.0,October,Friday
+UK,39.0,20.0,31.0,4.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Europe,8.0,October,Thursday
+Switzerland,9.0,6.0,3.0,5.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Europe,5.0,November,Saturday
+Australia,43.0,38.0,29.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Oceania,4.0,November,Saturday
+Singapore,16.0,10.0,11.0,5.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,Asia,9.0,December,Thursday
+USA,6.0,6.0,12.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5.0,4027.0,North America,10.0,December,Wednesday
+Australia,16.0,6.0,3.0,4.0,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Oceania,3.0,January,Saturday
+USA,15.0,3.0,13.0,5.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,5.0,January,Thursday
+USA,30.0,6.0,26.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,3.0,February,Tuesday
+USA,41.0,9.0,111.0,5.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,1.0,February,Friday
+India,44.0,35.0,53.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Asia,6.0,March,Tuesday
+USA,30.0,9.0,17.0,2.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,0.0,March,Tuesday
+Ireland,23.0,10.0,18.0,5.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,4.0,April,Monday
+Spain,3.0,0.0,8.0,2.0,Mar-May,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,3.0,April,Tuesday
+UK,12.0,6.0,16.0,3.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,3.0,May,Friday
+UK,5.0,0.0,5.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,0.0,June,Wednesday
+USA,32.0,5.0,11.0,4.0,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,6.0,June,Sunday
+USA,28.0,5.0,23.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,5.0,July,Friday
+Korea,77.0,18.0,48.0,4.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Asia,10.0,July,Saturday
+USA,11.0,8.0,2.0,4.0,Jun-Aug,Solo,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,0.0,August,Monday
+Scotland,102.0,25.0,37.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,6.0,August,Sunday
+Ireland,13.0,3.0,2.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,6.0,September,Tuesday
+USA,62.0,13.0,31.0,4.0,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,2.0,September,Tuesday
+UK,26.0,22.0,42.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,5.0,October,Sunday
+UK,13.0,6.0,12.0,4.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,1.0,October,Saturday
+UK,26.0,18.0,43.0,5.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Europe,4.0,November,Monday
+Canada,17.0,10.0,39.0,5.0,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,North America,3.0,November,Saturday
+India,4.0,4.0,1.0,4.0,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Asia,1.0,December,Monday
+Malaysia,20.0,18.0,19.0,2.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5.0,3933.0,Asia,4.0,December,Friday
+USA,14.0,3.0,7.0,4.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,7.0,January,Saturday
+Canada,19.0,3.0,12.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,1.0,January,Wednesday
+USA,116.0,12.0,43.0,4.0,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,4.0,February,Tuesday
+USA,121.0,13.0,59.0,2.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,9.0,March,Tuesday
+USA,14.0,7.0,6.0,5.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,2.0,March,Friday
+USA,56.0,16.0,54.0,4.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,9.0,April,Tuesday
+Canada,73.0,4.0,39.0,3.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,3.0,April,Monday
+USA,9.0,5.0,4.0,5.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,6.0,May,Thursday
+Australia,30.0,12.0,38.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,Oceania,4.0,June,Saturday
+Costa Rica,130.0,19.0,49.0,3.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,6.0,June,Sunday
+USA,50.0,15.0,23.0,4.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,3.0,July,Friday
+UK,22.0,9.0,11.0,4.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,Europe,3.0,July,Wednesday
+Egypt,85.0,37.0,65.0,5.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,Africa,4.0,August,Friday
+USA,73.0,7.0,26.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,3.0,August,Thursday
+USA,20.0,10.0,27.0,4.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,2.0,September,Thursday
+Canada,13.0,6.0,13.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,2.0,September,Tuesday
+Canada,18.0,3.0,10.0,2.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,2.0,October,Monday
+USA,6.0,4.0,6.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,0.0,October,Saturday
+USA,48.0,8.0,25.0,4.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,6.0,November,Monday
+USA,24.0,3.0,5.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,0.0,November,Sunday
+Canada,123.0,26.0,63.0,5.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,4.0,December,Saturday
+USA,24.0,7.0,6.0,4.0,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4.0,2916.0,North America,1.0,December,Thursday
+USA,15.0,3.0,4.0,3.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,7.0,January,Tuesday
+Italy,189.0,72.0,129.0,4.0,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,Europe,3.0,February,Friday
+USA,25.0,19.0,27.0,3.0,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,8.0,February,Monday
+USA,33.0,11.0,12.0,5.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,4.0,March,Wednesday
+USA,14.0,7.0,13.0,5.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,4.0,March,Thursday
+USA,38.0,22.0,47.0,4.0,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,4.0,April,Monday
+Egypt,169.0,43.0,85.0,4.0,Mar-May,Solo,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,Africa,12.0,April,Sunday
+USA,20.0,17.0,21.0,3.0,Mar-May,Friends,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,4.0,May,Sunday
+USA,17.0,10.0,18.0,4.0,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,3.0,May,Tuesday
+USA,96.0,47.0,161.0,4.0,Jun-Aug,Solo,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,11.0,June,Monday
+USA,38.0,13.0,11.0,3.0,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,5.0,June,Sunday
+USA,9.0,8.0,1.0,5.0,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,6.0,July,Monday
+USA,23.0,21.0,22.0,3.0,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,7.0,August,Wednesday
+USA,30.0,27.0,19.0,5.0,Sep-Nov,Solo,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,6.0,September,Friday
+USA,63.0,16.0,59.0,3.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,11.0,September,Wednesday
+UK,15.0,4.0,8.0,5.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,Europe,1.0,October,Sunday
+Canada,50.0,13.0,29.0,4.0,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,8.0,November,Thursday
+USA,9.0,6.0,5.0,2.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,9.0,December,Wednesday
+USA,20.0,19.0,112.0,4.0,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4.0,826.0,North America,5.0,December,Tuesday
